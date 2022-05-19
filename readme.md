@@ -1,4 +1,9 @@
-# 一级标题
+---
+layout: page
+title: About
+permalink: /readme
+categories: A
+---
 
 ## 二级标题
 

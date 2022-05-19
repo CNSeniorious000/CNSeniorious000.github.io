@@ -1,8 +1,9 @@
 ---
 # layout: page
 layout: home
-title: About
+title: Index
 permalink: /index/
+categories: A
 ---
 
 [Muspi Merol](https://muspimerol.site)
