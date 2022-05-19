@@ -1,3 +1,10 @@
+---
+layout: post
+title: "POST TITLE"
+date: 2022-5-19 hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+---
+
 在 GitHub 上，导航到站点的仓库。
 
 导航到站点的发布来源。 有关发布源的更多信息，请参阅“关于 GitHub Pages”。
