@@ -1,7 +1,3 @@
----
-layout: index
----
-
 [AnyBlog](/AnyBlog.md)
 
 [About](/readme.md)
