@@ -1,9 +1,5 @@
----
-layout: default
-title: Index
-categories: B
----
+[AnyBlog](/AnyBlog.md)
 
-[Muspi Merol](https://muspimerol.site)
+[About](/readme.md)
 
-[readme](/readme.md)
+[my site](https://muspimerol.site)
