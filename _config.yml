@@ -28,7 +28,7 @@ gitee_username: Seniorious000
 github_username: CNSeniorious000
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 # Exclude from processing.
