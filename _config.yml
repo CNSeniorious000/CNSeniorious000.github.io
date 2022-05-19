@@ -15,4 +15,3 @@ plugins :
   - jekyll-webp
   - jekyll-loading-lazy
   - jemoji
-  - jekyll-admin
