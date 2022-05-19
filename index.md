@@ -1,9 +1,7 @@
 ---
-# layout: page
-layout: home
+layout: default
 title: Index
-permalink: /index/
-categories: A
+categories: B
 ---
 
 [Muspi Merol](https://muspimerol.site)
