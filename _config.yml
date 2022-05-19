@@ -3,11 +3,15 @@ description    : Welcome to my personal index page
 show_downloads : yes
 
 github:
-  owner_name      : Muspi Merol
   owner_url       : https://github.com/CNSeniorious000
+  owner_name      : Muspi Merol
+  repository_url  : https://github.com/CNSeniorious000/CNSeniorious000.github.io
   repository_name : CNSeniorious000.github.io
-  reposito+ry_url : https://github.com/CNSeniorious000/CNSeniorious000.github.io
   is_project_page : yes
 
 theme   : jekyll-theme-cayman
-plugins : [jekyll-feed]
+plugins :
+  - jekyll-responsive_image
+  - jekyll-webp
+  - jekyll-loading-lazy
+  - jemoji
